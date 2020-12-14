@@ -16,6 +16,7 @@ Load -
 
 <img src = 'MongoDB_exported.png'>
 
-Conclusion - Viewing the data as a dictionary made it easier to see that the item with the highest amount of reviews was the Wooloo Gray Tank Top & Lavender Jersey Shorts - Women with 48 reviews. 
+Conclusion - The major difficulty of this project was trying to determine the correct name and class to use within the code to get it to run properly. 
+Viewing the data as a dictionary made it easier to see that the item with the highest amount of reviews was the Wooloo Gray Tank Top & Lavender Jersey Shorts - Women with 48 reviews. 
 
 <img src = 'https://www.pokemoncenter.com/products/images/P6606/741-06877/P6606_741-06877_01_thumb.jpg'>
