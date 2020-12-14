@@ -9,7 +9,7 @@ Export -
 
 
 Transform -
-	Once the specific names and classes were found, the data was scraped into three different lists. Each list had the product name, price, and number of reviews. Initially, the reviews had a string such as "4 reviews" so the ".split()[0]" function was used in order to separate the integer. The code runs so that the items that did not contain a review were excluded from the dataset. From the lists, the data was then turned into a dictonary so it could be loaded into MongoDB. >
+	Once the specific names and classes were found, the data was scraped into three different lists. Each list had the product name, price, and number of reviews. Initially, the reviews had a string such as "4 reviews" so the ".split()[0]" function was used in order to separate the integer. The code runs so that the items that did not contain a review were excluded from the dataset. From the lists, the data was then turned into a dictonary so it could be loaded into MongoDB. 
 
 Load -
 	With the dictionary, the data was loaded into a database collection and exported to MongoDB. The code also contains a "drop" function so any duplicated databases are dropped before one is loaded. 
@@ -18,4 +18,4 @@ Load -
 
 Conclusion - Viewing the data as a dictionary made it easier to see that the item with the highest amount of reviews was the Wooloo Gray Tank Top & Lavender Jersey Shorts - Women with 48 reviews. 
 
-<img src = 'https://www.pokemoncenter.com/products/images/P6606/741-06877/P6606_741-06877_01_thumb.jpg'
+<img src = 'https://www.pokemoncenter.com/products/images/P6606/741-06877/P6606_741-06877_01_thumb.jpg'>
